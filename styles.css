@@ -1,8 +1,7 @@
 *{
-	margin:0px;
-	padding:0px;
+	margin:0;
+	padding:0;
 }
-/* Your CSS Code here. */
 main{
 	width:150px;
 	height:150px;
@@ -10,6 +9,6 @@ main{
 }
 .hello-accio{
 	color:#ffffff;
-	margin-left:32px
-	padding:10px
+	margin-left:32px;
+	padding:10px;
 }
